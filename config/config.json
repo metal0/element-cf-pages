@@ -1,15 +1,15 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://awau.uk",
-            "server_name": "awau.uk"
+            "base_url": "https://i0.tf",
+            "server_name": "i0.tf"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
         }
     },
     "disable_custom_urls": false,
-    "disable_guests": false,
+    "disable_guests": true,
     "disable_login_language_selector": false,
     "disable_3pid_login": false,
     "brand": "Element",
