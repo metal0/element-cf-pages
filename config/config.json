@@ -29,7 +29,7 @@
     "features": {
         "feature_report_to_moderators": true,
         "feature_pinning": true,
-        "feature_bridge_state": true,
+        "feature_bridge_state": true
     },
     "default_federate": true,
     "default_theme": "dark",
